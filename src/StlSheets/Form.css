@@ -1,0 +1,29 @@
+    input::placeholder {
+        font-style: italic;
+        padding-left: 10px;
+        color: lightgrey;
+        font-size: 13px;
+
+    }
+
+    input[type="text"] {
+        border: 1px solid lightgrey;
+        border-radius: 4px;
+    }
+
+    textarea::placeholder {
+        border-radius: 4px;
+        padding-left: 10px;
+        color: lightgrey;
+        font-size: 13px;
+    }
+
+    label {
+        font-weight: 500;
+        font-size: 0.9rem;
+    }
+
+    button {
+        text-transform: capitalize;
+        font-weight: "700";
+    }
